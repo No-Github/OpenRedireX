@@ -110,18 +110,7 @@ def main():
 if __name__ == "__main__":
     if os.name =="nt":
         os.system("cls")
-    banner = """\u001b[36;1m
-             ____                   ____           ___          _  __
-            / __ \____  ___  ____  / __ \___  ____/ (_)_______ | |/ /
-           / / / / __ \/ _ \/ __ \/ /_/ / _ \/ __  / / ___/ _ \|   / 
-          / /_/ / /_/ /  __/ / / / _, _/  __/ /_/ / / /  /  __/   |  
-          \____/ .___/\___/_/ /_/_/ |_|\___/\__,_/_/_/   \___/_/|_|  
-                /_/   \u001b[0m                                                 
-
-
-                          \u001b[32;1m- By Devansh(Asm0d3us) and NullPxl\u001b[0m
-
-    """
+    banner = """"""
     print(banner)
     main()
     print("\n \u001b[31m [!] Total execution time                 : %ss\u001b[0m" % str((time.time() - start_time))[:-12])
