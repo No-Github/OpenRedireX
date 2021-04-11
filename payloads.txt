@@ -1,3 +1,4 @@
+baidu.com
 //example.com@google.com/%2f..
 ///google.com/%2f..
 ///example.com@google.com/%2f..
